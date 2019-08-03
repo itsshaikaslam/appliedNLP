@@ -12,12 +12,12 @@ The task is to analyse the news headlines published over a period of 15 years an
 
 This project was developed using **python 3.6.8**  The dependencies are as follows:  
 
-Keras==2.2.4
-wordcloud==1.5.0
-numpy==1.16.4
-matplotlib==3.1.1
-beautifulsoup4==4.8.0
-scikit_learn==0.21.3
+Keras==2.2.4  
+wordcloud==1.5.0  
+numpy==1.16.4  
+matplotlib==3.1.1  
+beautifulsoup4==4.8.0  
+scikit_learn==0.21.3  
  
 
 1. Open a terminal and clone the project repository:
